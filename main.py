@@ -43,4 +43,4 @@ class Server(threading.Thread):
 
 
 if __name__ == '__main__':
-    Server("zyrafal-proxy.herokuapp.com", int(os.environ.get('PORT', 25565))).run()
+    Server("hhhh12345.herokuapp.com", int(os.environ.get('PORT', 25565))).run()
